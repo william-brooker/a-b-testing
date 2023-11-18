@@ -6,6 +6,9 @@ In this repositry I have PDFs of my presentation to the stakeholders, my written
 
 Additional Links;
 
-Tbaleau VIsualisations: https://public.tableau.com/views/ABTestingAnalysis_16984961351770/ABTestUserBehaviourAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link 
+Tbaleau Visualisations: https://public.tableau.com/views/ABTestingAnalysis_16984961351770/ABTestUserBehaviourAnalysis?:language=en-GB&:display_count=n&:origin=viz_share_link 
 
 Loom Video Presentation, In this I present my fidnings to the stakeholders verbaly: https://www.loom.com/share/9390b30815474a8ab76e95460d5ce21b?sid=bebd34e9-99b6-4575-8f8d-674b1287ead8
+
+
+If you would like to contact me please do so via my LinkedIn Profile: https://www.linkedin.com/in/william-brooker-da/
